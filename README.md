@@ -1,16 +1,47 @@
-# calculadora
+# Flutter Calculator
 
-A new Flutter project.
+A simple calculator built with **Flutter**. This project is my first step into Flutter development, and I'm excited to share it!
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Basic arithmetic operations (+, -, \*, /)
+- Clean and responsive UI
+- Lightweight and fast
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **gFlutter**: UI toolkit for building natively compiled applications
+- **Dart**: Programming language used for Flutter development
+
+## 📥 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/jargumedo/flutter_calculator.git
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## 🤝 Contributing
+
+Feel free to fork this repository, submit issues, or suggest improvements. Any feedback is welcome!
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+### 📩 Contact
+
+If you have any questions or suggestions, feel free to reach out!
+
+💡 **Happy Coding!** 🚀
+
