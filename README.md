@@ -20,11 +20,15 @@ A simple calculator built with **Flutter**. This project is my first step into F
    ```sh
    git clone https://github.com/jargumedo/flutter_calculator.git
    ```
-2. Install dependencies:
+2. Navigate to the project folder:
+   ```sh
+   cd flutter_calculator
+   ```
+3. Install dependencies:
    ```sh
    flutter pub get
    ```
-3. Run the app:
+4. Run the app:
    ```sh
    flutter run
    ```
